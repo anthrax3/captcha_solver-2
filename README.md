@@ -1,7 +1,10 @@
-visa_pl
-=======
+Captcha Solver
+==============
 
-Polish Visa Captcha solver, with automatic form filled.
+Captcha Solver, based on old polish embassey visa captcha generator.
+Store image database, equaliation function, ranking function.
+
+With automatic form filled.
 
 
 Gems: RMagick
